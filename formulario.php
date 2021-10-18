@@ -7,7 +7,7 @@
 				$n2 = $num2;
 
 				$soma=0;
-				$soma = $n1 + $n2;
+				$soma = (int)$n1 + (int)$n2;
 				$divisao =  $n1/$n2;
 				$multiplicacao = $n1*$n2;
 				$subtracao =  $n1-$n2;
